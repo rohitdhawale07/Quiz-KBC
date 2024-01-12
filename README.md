@@ -1,4 +1,34 @@
-# Getting Started with Create React App
+# Quiz Game App
+### Hosted Link:- https://quiz-kbc-git-main-rohit-dhawales-projects.vercel.app/
+[Hosted Link Here](https://quiz-kbc-git-main-rohit-dhawales-projects.vercel.app/)
+
+This is a simple quiz game app built using React. 
+The game presents a series of multiple-choice questions to the user and tracks their progress as they answer each question. 
+The user can earn money based on the difficulty of the questions.
+
+## Table of Contents
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Components](#components)
+- [Data Structure](#data-structure)
+- [Dependencies](#dependencies)
+
+## Features
+
+- User-friendly interface.
+- Multiple-choice questions with varying difficulty levels.
+- Timer for each question.
+- Dynamic money pyramid reflecting the user's progress.
+- Earned money displayed at the end of the game.
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/rohitdhawale07/quiz-game.git
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
