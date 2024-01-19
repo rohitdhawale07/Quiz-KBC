@@ -6,14 +6,6 @@ This is a simple quiz game app built using React.
 The game presents a series of multiple-choice questions to the user and tracks their progress as they answer each question. 
 The user can earn money based on the difficulty of the questions.
 
-## Table of Contents
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Components](#components)
-- [Data Structure](#data-structure)
-- [Dependencies](#dependencies)
-
 ## Features
 
 - User-friendly interface.
@@ -21,6 +13,14 @@ The user can earn money based on the difficulty of the questions.
 - Timer for each question.
 - Dynamic money pyramid reflecting the user's progress.
 - Earned money displayed at the end of the game.
+
+ ## Usage
+- Launch the app.
+- Enter your username to begin the quiz.
+- Answer each question within the given time.
+- Earn virtual money based on correct answers.
+- The game ends when all questions are answered or the timer runs out.
+  
 
 ## Installation
 
